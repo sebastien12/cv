@@ -1,0 +1,19 @@
+body {
+ background-image: url("http://www.hdwallpapery.com/static/images/background-wallpapers-9_39CDbSS.jpg");
+background-repeat: no-repeat;
+`
+  
+}
+
+#001{
+margin-left:400px;	
+position:absolute;
+left:400px;
+}
+#image{
+width:200px;
+}
+#gauche{
+position:absolute;
+left:600px;
+}
